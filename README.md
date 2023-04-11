@@ -3,6 +3,8 @@
 > Cryptocurrencies stats and latest crypto news tracker
 
 ## Screenshots
+<img width="1440" alt="Screenshot 2023-04-11 at 18 52 54" src="https://user-images.githubusercontent.com/66703210/231224081-e304e252-504e-48f8-98f1-83e072b5c643.png">
+<img width="1440" alt="Screenshot 2023-04-11 at 19 12 03" src="https://user-images.githubusercontent.com/66703210/231224106-bb490f2a-d05d-4f88-b210-e95e7aca08f4.png">
 
 ## Demo
 
