@@ -3,10 +3,13 @@
 > Cryptocurrencies stats and latest crypto news tracker
 
 ## Screenshots
+
 <img width="1440" alt="Screenshot 2023-04-11 at 18 52 54" src="https://user-images.githubusercontent.com/66703210/231224081-e304e252-504e-48f8-98f1-83e072b5c643.png">
 <img width="1440" alt="Screenshot 2023-04-11 at 19 12 03" src="https://user-images.githubusercontent.com/66703210/231224106-bb490f2a-d05d-4f88-b210-e95e7aca08f4.png">
 
 ## Demo
+
+https://crypto-app-cryptoverse.netlify.app/
 
 ## Start
 
@@ -36,6 +39,7 @@ yarn dev
 
 <a href="https://reactjs.org/)"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></img></a>
+<a href="https://ant.design/"><img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"></img></a>
 
 ## _Additional_
 
